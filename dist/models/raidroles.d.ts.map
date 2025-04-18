@@ -1,0 +1,1 @@
+{"version":3,"file":"raidroles.d.ts","sourceRoot":"","sources":["../../src/models/raidroles.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,KAAK,EAAE,MAAM,WAAW,CAAC;AAG7C,cAAM,QAAS,SAAQ,KAAK;IAChB,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;IACpB,aAAa,EAAE,MAAM,CAAC;CAE/B;AAgBH,eAAe,QAAQ,CAAC"}

@@ -1,6 +1,6 @@
 {
   "name": "@leprechaunchen/twilightshared",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared library for twilight data",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
