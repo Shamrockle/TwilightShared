@@ -1,0 +1,23 @@
+{
+  "name": "twilightshared",
+  "version": "0.1.0",
+  "description": "Shared library for twilight data",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "build-and-start": "npm run build && npm run start"
+  },
+  "author": "Leprechaunchen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/sequelize": "^4.28.20",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mariadb": "^3.4.1",
+    "sequelize": "^6.37.7"
+  }
+}
