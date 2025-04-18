@@ -4,3 +4,4 @@ export { default as RaidMember } from './models/raidmembers';
 export { default as Char } from './models/chars';
 export { default as Template } from './models/templates';
 export { initializeDatabase } from './config/initialize';
+export { Op } from 'sequelize'; // just until I rework chars

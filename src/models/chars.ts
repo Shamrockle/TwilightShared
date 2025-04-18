@@ -1,7 +1,7 @@
-import { DataTypes, Model } from "sequelize";
+import { DataTypes, InferAttributes, InferCreationAttributes, Model } from "sequelize";
 import sequelize from "../config/sequelize";
 
-class Char extends Model{
+class Char extends Model<InferAttributes<Char>, InferCreationAttributes<Char>>{
 	declare user: string;
 	declare char: string;
 	declare tank: string;
